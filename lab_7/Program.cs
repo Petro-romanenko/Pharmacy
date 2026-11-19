@@ -5,7 +5,8 @@ namespace Pharmacy
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)// Головний цикл меню застосунку Аптека
+
         {
             Console.OutputEncoding = Encoding.UTF8;
             Console.InputEncoding = Encoding.UTF8;
